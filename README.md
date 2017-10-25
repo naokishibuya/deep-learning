@@ -1,3 +1,5 @@
 # Deep Learning Examples
 
-[Visualizing Convolutional Network:w
+[Visualizing Convolutional Layers](python/Visualizing\ Convolutional\ Layers.ipynb)
+
+
