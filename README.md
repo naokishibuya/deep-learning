@@ -1,5 +1,5 @@
 # Deep Learning Examples
 
-[Visualizing Convolutional Layers](python/Visualizing\ Convolutional\ Layers.ipynb)
+[Visualizing Convolutional Layers](python/visualizing_convolutional_layers.ipynb)
 
 
