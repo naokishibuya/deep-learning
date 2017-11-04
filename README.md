@@ -9,3 +9,5 @@
 [GAN with MNIST](python/gan_mnist.ipynb)
 
 [DCGAN with MNIST](python/dcgan_mnist.ipynb)
+
+[DCGAN with SVHN](python/dcgan_svhn.ipynb)
