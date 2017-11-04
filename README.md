@@ -7,3 +7,5 @@
 [Noise Reduction by Autoencoder](python/autoencoder_noise_reduction.ipynb)
 
 [GAN with MNIST](python/gan_mnist.ipynb)
+
+[DCGAN with MNIST](python/dcgan_mnist.ipynb)
