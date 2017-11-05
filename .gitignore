@@ -1,6 +1,10 @@
 # Matlab data file
 *.mat
 
+# CelebA data
+img_align_celeba
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
