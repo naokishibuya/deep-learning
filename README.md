@@ -1,13 +1,21 @@
 # Deep Learning Examples
 
-[Visualizing Convolutional Layers](python/visualizing_convolutional_layers.ipynb)
+## Style Transfer
 
-[Artistic Style Transfer](python/artistic_style_transfer.ipynb)
+* [Visualizing Convolutional Layers](python/visualizing_convolutional_layers.ipynb)
 
-[Noise Reduction by Autoencoder](python/autoencoder_noise_reduction.ipynb)
+* [Artistic Style Transfer](python/artistic_style_transfer.ipynb)
 
-[GAN with MNIST](python/gan_mnist.ipynb)
+## Autoencoder
 
-[DCGAN with MNIST](python/dcgan_mnist.ipynb)
+* [Noise Reduction by Autoencoder](python/autoencoder_noise_reduction.ipynb)
 
-[DCGAN with SVHN](python/dcgan_svhn.ipynb)
+## Generative Adversarial Networks
+
+* [GAN with MNIST](python/gan_mnist.ipynb)
+
+* [DCGAN with MNIST](python/dcgan_mnist.ipynb)
+
+* [DCGAN with SVHN](python/dcgan_svhn.ipynb)
+
+* [DCGAN with CelebA](python/dcgan_celeba.ipynb)
