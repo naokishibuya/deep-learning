@@ -19,3 +19,7 @@
 * [DCGAN with SVHN](python/dcgan_svhn.ipynb)
 
 * [DCGAN with CelebA](python/dcgan_celeba.ipynb)
+
+## Concepts
+
+* [Up-sampling with Transposed Convolution](python/transposed_convolution.ipynb)
