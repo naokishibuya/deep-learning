@@ -29,3 +29,4 @@
 
 * [DDPM with MNIST](python/ddpm_mnist.ipynb)
 
+* [DDPM with CIFAR10](python/ddpm_cifar10.ipynb)
