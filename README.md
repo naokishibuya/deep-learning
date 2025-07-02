@@ -23,3 +23,9 @@
 ## Concepts
 
 * [Up-sampling with Transposed Convolution](python/transposed_convolution.ipynb)
+
+
+## Diffusion Models
+
+* [DDPM with MNIST](python/ddpm_mnist.ipynb)
+
