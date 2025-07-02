@@ -10,6 +10,8 @@
 
 * [Noise Reduction by Autoencoder](python/autoencoder_noise_reduction.ipynb)
 
+* [Variational Autoencoder (VAE) with MNIST](python/vae_mnist.ipynb)
+
 ## Generative Adversarial Networks
 
 * [GAN with MNIST](python/gan_mnist.ipynb)
